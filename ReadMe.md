@@ -58,6 +58,7 @@ Does anyone run a *stock* printer?  I don't think so.
 * A fistful of these [filament clips][fc] which work surprisingly well, but are prone to go flying, and then the cat shoves them under furniture.
 * Parts of this [TUSH spool holder][tush1], and this [the Tush++ remix][tush2], both from Thingiverse. These fit inside the [food dehydrator][presto] with the nylon spool so I can keep the [nylon][ntl] dry during very long prints.
 * This [nozzle insert][ndi], which in turn fits in this [drawer insert][di] from Thingiverse
+* This [Z-Axis Sensor Cover][zasc] from the [Creality CR-6 SE/CR-6 MAX Official User Group][cr6fb] Facebook group
 
 [cr6]: https://www.creality.com/goods-detail/cr-6-se-3d-printer
 [kcr6]: https://www.kickstarter.com/projects/3dprintmill/creality-cr-6-se-leveling-free-diy-3d-printer-kit
@@ -86,3 +87,5 @@ Does anyone run a *stock* printer?  I don't think so.
 [nyloncr6]:https://www.facebook.com/groups/CR6SECR6MAX/permalink/677500282967244
 [nfpwetl]:https://www.facebook.com/groups/351473432420518/
 [diyled]:https://www.facebook.com/groups/cr6community/permalink/903757283483997/
+[zasc]: https://www.facebook.com/groups/CR6SECR6MAX/permalink/674505003266772/
+[cr6fb]:https://www.facebook.com/groups/CR6SECR6MAX/about
