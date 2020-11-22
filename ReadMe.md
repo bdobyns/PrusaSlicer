@@ -22,14 +22,16 @@ I don't use Slic3r, so don't ask.
 
 
 * I've been printing with Nylon Trimmer Line, in particular [MaxPower 333665][ntl] from Amazon. It was $22 USD for a 1.4Kg spool last time I checked, or $16/Kg USD.
-* [Nylon][ntl] **ABSOLUTELY POSITIVELY** needs to spend at least 16 hours in a dehydrator at 75C
+* [Nylon][ntl] **ABSOLUTELY POSITIVELY** needs to spend at least 16 hours or more in a dehydrator at 75C
 * It's too big to fit into a [SunLu Dehydrator][sunlu] box so I put it in a generic [food dehydrator][presto].  I could respool it onto smaller spools that fit in the SunLu, but I don't have any empty spools yet. I haven't tried using this [spool][ulfs].
 * generally my settings are 
   * Bed 105C
   * Nozzle 250C
   * Fan off
   * Filament Type = Nylon
-  * 50mm/s print speed
+  * 35mm/s print speed
+* There's a thread on FB about [Nylon on the CR-6][nyloncr6]
+* There's a whole [nylon filament 3d printing weed eater trimmer line][nfpwetl] FB group
 
 # CR-6 SE Modifications
 
@@ -41,6 +43,7 @@ Does anyone run a *stock* printer?  I don't think so.
 * This [Capricorn pfte bowden][bowden] kit from Amazon
 * This [Creality all-metal extruder][amex] kit from Amazon
 * Some [stainless steel nozzles][ssn] from Amazon
+* This [white LED replacement][wledr] for the HotEnd by David Dee from Etsy.  You can diy it by following his [instructions][diyled] on FB. 
 * This [SunLu Dehydrator][sunlu] box from Amazon for PLA and PETG. Has adjustable temperature.
 * This [Presto food dehydrator][presto] from Amazon for NYLON. It does not have a temp control (always 75C) so it is a little too hot for PLA.
 * Several [simple timers][timer] to shut off the printer and dehydrator
@@ -79,3 +82,7 @@ Does anyone run a *stock* printer?  I don't think so.
 [fg]:https://www.thingiverse.com/thing:4594094
 [fc]:https://www.thingiverse.com/thing:1194027
 [ulfs]:https://www.thingiverse.com/thing:1986210
+[wledr]:https://www.etsy.com/listing/886014343/white-led-kit-replacementaccessory-for
+[nyloncr6]:https://www.facebook.com/groups/CR6SECR6MAX/permalink/677500282967244
+[nfpwetl]:https://www.facebook.com/groups/351473432420518/
+[diyled]:https://www.facebook.com/groups/cr6community/permalink/903757283483997/
