@@ -87,5 +87,5 @@ Does anyone run a *stock* printer?  I don't think so.
 [nyloncr6]:https://www.facebook.com/groups/CR6SECR6MAX/permalink/677500282967244
 [nfpwetl]:https://www.facebook.com/groups/351473432420518/
 [diyled]:https://www.facebook.com/groups/cr6community/permalink/903757283483997/
-[zasc]: https://www.facebook.com/groups/CR6SECR6MAX/permalink/674505003266772/
-[cr6fb]:https://www.facebook.com/groups/CR6SECR6MAX/about
+[zasc]: https://www.facebook.com/groups/CR6SECR6MAX/permalink/673509436699662/
+[cr6fb]: https://www.facebook.com/groups/CR6SECR6MAX/about
